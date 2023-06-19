@@ -1,0 +1,11 @@
+.card img {
+  opacity: 1;
+  transition: opacity 0.3s;
+}
+.card img:hover {
+  opacity: 0.5;
+}
+
+.card .card-footer a {
+  text-decoration: none;
+}
